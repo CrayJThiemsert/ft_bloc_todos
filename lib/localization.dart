@@ -8,7 +8,7 @@ class FlutterBlocLocalizations {
         FlutterBlocLocalizations);
   }
 
-  String get appTitle => 'Flutter Bloc Todos';
+  String get appTitle => 'FT Todos';
 }
 
 class FlutterBlocLocalizationsDelegate extends LocalizationsDelegate<FlutterBlocLocalizations> {
